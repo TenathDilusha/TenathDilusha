@@ -2,8 +2,6 @@
   
 # Hi there 👋, I'm Dilusha
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Computer+Science+%26+Engineering+Student;Full+Stack+Developer;Problem+Solver+%7C+Chess+Player)](https://git.io/typing-svg)
-
 </div>
 
 ---
